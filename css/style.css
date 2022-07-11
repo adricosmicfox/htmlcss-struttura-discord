@@ -71,3 +71,25 @@ footer {
 footer>div>p {
     color: white;
 }
+
+#bottom-line {
+    color: white;
+    padding-top: 30px;
+    background-color: #23272A;
+    height: 150px;
+    text-align: center;
+}
+
+hr {
+    margin-bottom: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #4671E7;
+    border: none;
+    height: 1px;
+}
+
+#bottom-line>div>span {
+    padding-left: 250px;
+    padding-right: 250px;
+}
