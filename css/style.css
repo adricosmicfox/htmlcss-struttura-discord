@@ -57,3 +57,17 @@ h1 {
     flex-direction: column;
     align-items: center;
 }
+
+footer {
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #4671E7;
+    background-color: #23272A;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer>div>p {
+    color: white;
+}
